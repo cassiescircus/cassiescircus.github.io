@@ -1,0 +1,58 @@
+div {
+    border-radius: 20px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, sans-serif;
+}
+
+#container {
+    width: 1000px;
+}
+
+#header {
+    z-index: 1;
+    background-color: lavender;
+    margin-bottom: 10px;
+    margin-top: -10px;
+    padding: 10px 10px 50px 20px;
+}
+
+#pic {
+    float: right;
+	margin-top: -55px;
+	margin-right: 20px;
+	box-shadow: 3px 3px 3px #585858;
+}
+
+h2 {
+    text-shadow: 1.5px 1.5px Gray;
+}
+
+h4 {
+    text-shadow: 1px 1px Gray;
+}
+
+.skills {
+    background-color: antiquewhite;
+    padding: 5px 20px 10px 20px;
+    margin-bottom: 5px;
+}
+
+.work {
+    background-color: antiquewhite;
+    padding: 5px 20px 10px 20px;
+    margin-bottom: 5px;
+}
+
+.school {
+    background-color: antiquewhite;
+    padding: 5px 20px 10px 20px;
+    margin-bottom: 10px;
+}
+
+#footer {
+    background-color: lavender;
+    padding: 5px 20px 10px 20px;
+    margin-top: 5px;
+}
