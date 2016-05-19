@@ -37,24 +37,28 @@ h4 {
     background-color: WhiteSmoke ;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #585858;
 }
  
 .work {
     background-color: WhiteSmoke ;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #585858;
 }
  
 .school {
     background-color: WhiteSmoke ;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #585858;
 }
  
 .volunteer {
     background-color: WhiteSmoke ;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #585858;
 }
  
 #footer {
