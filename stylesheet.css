@@ -58,7 +58,7 @@ h4 {
 }
  
 #footer {
-    background-color: AliceBlue;
+    background-color: WhiteSmoke;
     padding: 10px 20px 10px 20px;
     margin-top: 5px;
  
@@ -66,7 +66,7 @@ h4 {
  
 #contact {
     border-radius: 15px;
-    background-color: WhiteSmoke ;
+    background-color: AliceBlue;
     width: 120px;
     margin: auto;
     text-align: center;
