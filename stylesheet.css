@@ -16,6 +16,7 @@ div {
     margin-bottom: 10px;
     margin-top: -10px;
     padding: 10px 10px 50px 20px;
+    box-shadow: 3px 3px 3px #585858;
 }
  
 #pic {
@@ -65,7 +66,7 @@ h4 {
     background-color: WhiteSmoke;
     padding: 10px 20px 10px 20px;
     margin-top: 5px;
- 
+    box-shadow: 3px 3px 3px #585858;
 }
  
 #contact {
