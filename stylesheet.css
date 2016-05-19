@@ -1,5 +1,5 @@
 div {
-    border-radius: 20px;
+    border-radius: 10px;
     float: center;
     margin-left: auto;
     margin-right: auto;
@@ -34,25 +34,25 @@ h4 {
 }
 
 .skills {
-    background-color: antiquewhite;
+    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
 }
 
 .work {
-    background-color: antiquewhite;
+    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
 }
 
 .school {
-    background-color: antiquewhite;
+    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
 }
 
 .volunteer {
-    background-color: antiquewhite;
+    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
 }
