@@ -1,15 +1,15 @@
 div {
-    border-radius: 10px;
+    border-radius: 20px;
     float: center;
     margin-left: auto;
     margin-right: auto;
     font-family: Verdana, sans-serif;
 }
-
+ 
 #container {
     width: 1000px;
 }
-
+ 
 #header {
     z-index: 1;
     background-color: lavender;
@@ -17,76 +17,76 @@ div {
     margin-top: -10px;
     padding: 10px 10px 50px 20px;
 }
-
+ 
 #pic {
     float: right;
-	margin-top: -55px;
-	margin-right: 20px;
-	box-shadow: 3px 3px 3px #585858;
+    margin-top: -55px;
+    margin-right: 20px;
+    box-shadow: 3px 3px 3px #585858;
 }
-
+ 
 h2 {
     text-shadow: 1px 1px Gray;
 }
-
+ 
 h4 {
     text-shadow: 1px 1px Gray;
 }
-
+ 
 .skills {
+    background-color: antiquewhite;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
-    background-color: AliceBlue;
 }
-
+ 
 .work {
+    background-color: antiquewhite;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
-    background-color: AliceBlue;
 }
-
+ 
 .school {
+    background-color: antiquewhite;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
-    background-color: AliceBlue;
 }
-
+ 
 .volunteer {
+    background-color: antiquewhite;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
-    background-color: AliceBlue;
 }
-
+ 
 #footer {
     background-color: lavender;
     padding: 10px 20px 10px 20px;
     margin-top: 5px;
-
+ 
 }
-
+ 
 #contact {
-	border-radius: 15px;
-	background-color: AliceBlue;
-	width: 120px;
-	margin: auto;
-	text-align: center;
-	padding: 10px;
-	box-shadow: 3px 3px 3px #585858;
-	border: 1px solid black;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 120px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 3px 3px 3px #585858;
+    border: 1px solid black;
 }
-
+ 
 a {
-	text-decoration: none;
-	color: black;
-	text-shadow: 1px 1px Gray;
+    text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px Gray;
 }
-
+ 
 table {
     margin: auto;
     padding-left:100px;
     padding-bottom: 10px;
 }
-
+ 
 td {
     text-align: left;
     width: 300px;
