@@ -4,6 +4,7 @@ div {
     margin-left: auto;
     margin-right: auto;
     font-family: Verdana, sans-serif;
+    background-color: AliceBlue;
 }
 
 #container {
@@ -34,25 +35,21 @@ h4 {
 }
 
 .skills {
-    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
 }
 
 .work {
-    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 5px;
 }
 
 .school {
-    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
 }
 
 .volunteer {
-    background-color: AliceBlue;
     padding: 5px 20px 10px 20px;
     margin-bottom: 10px;
 }
