@@ -21,45 +21,25 @@ div {
  
 #pic {
     float: right;
+    border-radius: 10px;
     margin-top: -55px;
     margin-right: 20px;
     box-shadow: 3px 3px 3px #585858;
 }
  
+.sections {
+    background-color: WhiteSmoke ;
+    padding: 5px 20px 10px 20px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 3px #d9d9d9;
+}
+
 h2 {
     text-shadow: 1px 1px Gray;
 }
  
 h4 {
     text-shadow: 1px 1px Gray;
-}
- 
-.skills {
-    background-color: WhiteSmoke ;
-    padding: 5px 20px 10px 20px;
-    margin-bottom: 10px;
-    box-shadow: 3px 3px 3px #d9d9d9;
-}
- 
-.work {
-    background-color: WhiteSmoke ;
-    padding: 5px 20px 10px 20px;
-    margin-bottom: 10px;
-    box-shadow: 3px 3px 3px #d9d9d9;
-}
- 
-.school {
-    background-color: WhiteSmoke ;
-    padding: 5px 20px 10px 20px;
-    margin-bottom: 10px;
-    box-shadow: 3px 3px 3px #d9d9d9;
-}
- 
-.volunteer {
-    background-color: WhiteSmoke ;
-    padding: 5px 20px 10px 20px;
-    margin-bottom: 10px;
-    box-shadow: 3px 3px 3px #d9d9d9;
 }
  
 #footer {
